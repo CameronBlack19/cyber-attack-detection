@@ -13,7 +13,7 @@ This repository contains resources for detecting cyber-attacks using data analyt
    - Features include network parameters and attack labels.  
 
 3. **`test_res.csv`**  
-   - Output file with test results, including predicted labels and model performance metrics.  
+   - Output file with test results, including metrics (precision, recall, F1-score, support) for categories (High, Low, Medium) and overall performance (accuracy, macro avg, weighted avg).
 
 ## Features  
 
