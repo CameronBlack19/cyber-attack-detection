@@ -39,7 +39,7 @@ Ensure the following are installed before running the code:
 
 2. Navigate to the project directory
   ```bash
-  cd
+  cd Cyber-Attack-Detection
   ```
 
 3. Open Jupiter Notebook
